@@ -12,13 +12,6 @@ This project is a simple HTML and CSS demonstration showcasing an animated hover
 
 ---
 
-## Preview
-
-![CSS Button Hover Animation](preview.png)  
-*Example of the hover animation effect.*
-
----
-
 ## How to Use
 
 1. Clone or download this repository:
